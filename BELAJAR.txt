@@ -1,2 +1,3 @@
 GITHUB adalah VCS dengan berbasis aplikasi web yang filenya disimpan di Cloud.
 Repository adalah tempat penyimpanan file yang dibaca oleh GITHUB
+Vue adalah framework pada JavaScript yang baisa dipakai untuk membangun User Interface(UI), sehingga biasanya dipakai untuk para frontend Dev.
