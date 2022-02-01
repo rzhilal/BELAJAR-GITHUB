@@ -1,3 +1,4 @@
 GITHUB adalah VCS dengan berbasis aplikasi web yang filenya disimpan di Cloud.
 Repository adalah tempat penyimpanan file yang dibaca oleh GITHUB
+End of line adalah tanda yang menyatakan bahwa pembacaan telah sampai pada baris akhir. Ini biasa juga disebut newline, nextline, atau line break.
 Vue adalah framework pada JavaScript yang baisa dipakai untuk membangun User Interface(UI), sehingga biasanya dipakai untuk para frontend Dev.
