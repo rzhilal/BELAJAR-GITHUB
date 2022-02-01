@@ -1,0 +1,8 @@
+Clean code adalah kode dengan format yang benar dan disusun dengan baik biar programmer lain dapat dengan mudah membaca atau memodifikasi kode tersebut. Dari yang saya baca, clean code meliputi : 
+- komentar yang efisien, 
+- penamaan yang baik, 
+- penulisan fungsi yang simpel dan efektif, 
+- tidak terdapat duplikasi kode, 
+- program dibuat secara modular,
+- terstruktur rapi, 
+- layout formatting.
