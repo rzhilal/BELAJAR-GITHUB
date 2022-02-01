@@ -1,1 +1,2 @@
 GITHUB adalah VCS dengan berbasis aplikasi web yang filenya disimpan di Cloud.
+Repository adalah tempat penyimpanan file yang dibaca oleh GITHUB
